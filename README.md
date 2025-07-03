@@ -1,4 +1,3 @@
-# text-summarizer-llm
 # 🧠 Text Summarizer using Transformers
 
 # Topic: Text Summarization on CNN/DailyMail
