@@ -14,4 +14,4 @@ Tools: Hugging Face, Transformers, Datasets, Colab
 Greedy decoding is fast but less diverse.
 Beam Search gave high-quality, balanced summaries.
 Top-k added variety but was sometimes less accurate.
-Evaluation: ROUGE scores support that Pegasus + Beam performs best for this task.
+- Evaluation: ROUGE scores support that Pegasus + Beam performs best for this task.
