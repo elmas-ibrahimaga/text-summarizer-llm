@@ -9,9 +9,3 @@ A simple Python-based text summarization tool using Hugging Face’s pre-trained
 - Uses `facebook/bart-large-cnn` from Hugging Face
 - CLI input or file-based summary
 - Optional: Streamlit UI
-
-## ▶️ Run It
-
-```bash
-pip install -r requirements.txt
-python summarizer.py
